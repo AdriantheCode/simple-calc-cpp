@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/workspaces/simple-calc-cpp",
-      "program": "/workspaces/simple-calc-cpp/simplecalc.cpp",
+      "program": "/workspaces/simple-calc-cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
@@ -20,5 +20,5 @@
         }
       ]
     }
-  ],
+  ]
 }
